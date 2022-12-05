@@ -92,3 +92,31 @@ c = a + b
 a = c - a 
 b = c - b 
 print(a, b)
+ 
+ # transtypage
+foo = "123"
+foo = int(foo)
+print(type(foo))
+
+foo = "123"
+# str vers float
+foo = float(foo)
+print(type(foo))
+
+foo = 3.14 
+# flota vers int, permet d'enlever tout ce qui se trouve derrière la virgulz
+foo = int(foo)
+print(foo)
+
+foo = 3.14
+foo = str(foo)
+print(type(foo))
+
+# 
+foo = 2.71
+# récupérer la partie entière
+a = int(foo)
+# récupérer la partie aprés la virgule
+b = foo -a
+print(a)
+print(b)
