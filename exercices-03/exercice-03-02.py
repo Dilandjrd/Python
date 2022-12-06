@@ -13,3 +13,14 @@ friends = 3
 
 # réponse 3.2
 
+candies %= friends
+candies_rest = candies
+
+chocolates %= friends
+chocolates_rest = chocolates
+
+print(chocolates_rest)
+print(candies_rest)
+
+
+
