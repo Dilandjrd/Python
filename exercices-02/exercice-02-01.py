@@ -10,5 +10,12 @@
 # réponse 2.1
 answer = 42 
 golden_ratio = 1.61
+fullname = "Salut Dujourd\'hui Dilan"
+love_python = True
+license_agreement = None
 
-fullname
+print(answer)
+print(golden_ratio)
+print(fullname)
+print(love_python)
+print(license_agreement)

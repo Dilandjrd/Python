@@ -4,4 +4,9 @@
 # Affichez le résultat.
 
 # réponse 2.2
+number1 = 2 
+number1 = float(number1)
+number1_float = number1
 
+print(number1)
+print(type(number1))
