@@ -12,11 +12,12 @@ chocolates = 17
 friends = 3
 
 # réponse 3.3
-candies /= friends
+candies //= friends
 candies_per_person = candies
 
-chocolates /= friends
+chocolates //= friends
 chocolates_per_person = chocolates
 
 print(candies_per_person)
 print(chocolates_per_person)
+
