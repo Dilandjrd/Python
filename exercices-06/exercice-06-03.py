@@ -5,3 +5,5 @@ my_list = ['foo', 'bar', 'baz', 'lorem', 'ipsum']
 
 # réponse 6.3
 
+mylist = my_list.append("toto")
+print(my_list)
