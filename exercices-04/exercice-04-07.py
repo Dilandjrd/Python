@@ -15,4 +15,12 @@ b = random.randint(0, 99)
 print(b)
 
 # réponse 4.7
+if a > b :
+    print("le nombre a est supérieur au nombre b")
+
+elif a < b :
+    print("le nombre a est inférieur au nombre b")    
+
+else :
+    print("les deux nombres a et b sont égaux")    
 

@@ -9,3 +9,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 # réponse 5.3
 
+my_index = my_text[12 : 20 + 1]
+print(my_index)

@@ -10,5 +10,12 @@ number = random.randint(0, 99)
 print(number)
 
 # réponse 4.5
+if  0 <= number <= 49:
+    print("le nombre est compris entre 0 et 49 inclus")
+
+else : 
+    print("le nombre n'est pas compris entre 0 et 49 inclus")
+
+
 
 

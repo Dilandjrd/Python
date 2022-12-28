@@ -8,3 +8,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 # réponse 5.5
 
+
+print(my_text.count("."))
